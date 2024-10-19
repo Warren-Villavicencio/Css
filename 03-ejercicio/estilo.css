@@ -7,7 +7,7 @@ h1{
 .frutas{
 
    background-color: brown;
-   width: 100px;
+   width: auto;
    height: auto;
    display: block;
 }
