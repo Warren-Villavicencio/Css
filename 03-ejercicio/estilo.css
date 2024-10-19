@@ -22,5 +22,11 @@ h1{
  }
 
 
- 
+ .granos{
+
+    background-color: rgb(28, 72, 183);
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+ }
 
