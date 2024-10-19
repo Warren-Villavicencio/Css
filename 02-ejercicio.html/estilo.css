@@ -10,4 +10,5 @@ div{
 }
 
 .box { 
-    width: 200px; height: 100px; padding: 10px; border: 2px solid black; margin: 20px; }
+    width: 200px; 
+    height: 100px; padding: 10px; border: 2px solid black; margin: 20px; }
