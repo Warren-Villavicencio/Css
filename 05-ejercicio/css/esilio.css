@@ -9,7 +9,7 @@ background-size: cover;
 
 .paisaje2 {
 
-    background-image: url(../img/paisaje.jpg) ;
+    background-image: url(../) ;
     height: 400px;
     width: 1000px;
     background-repeat: no-repeat;
