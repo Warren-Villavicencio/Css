@@ -1,7 +1,7 @@
 .paisaje {
   
     background-image: url(../img/paisaje.jpg) ;
-    height: auto;
+    height: 500;
     width: 500;
     background-repeat: no-repeat;
 background-size: cover;
